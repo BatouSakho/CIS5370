@@ -1,5 +1,5 @@
 # CIS5370
-Ping of Death 
+<b>Ping of Death</b> 
 
 ______________________________________________________________________________________
 
@@ -14,7 +14,7 @@ Technologies
 
 ______________________________________________________________________________________
 
-How To Use
+<b>How To Use</b>
 
 Installations
 
@@ -31,9 +31,9 @@ Steps to run the program
 
 	•	Open terminal to the folder that the C program is located in
 	⁃	Compile by running
-	⁃	gcc  program.c  -o compiledname  (Whatever you choose)
+				⁃ gcc  program.c  -o compiledname  (Whatever you choose)
 	⁃	Once compiled, we run the executable by
-	⁃	./compiledname
+	                        ⁃ ./compiledname
 
 The user is given a Main Menu where they are to select a number from 0 to 5. The last option, 5, exits the program.
 	
@@ -48,7 +48,7 @@ The user is given a Main Menu where they are to select a number from 0 to 5. The
 
 If the user chooses to exit with  ^c,  they will see the data of the transmissions (packet loss percentage, etc.)
 
-	Aside from the above method of seeing the data, we can use Wireshark to see the visual representation of the packet traffic.  For our presentation we use filters and the Expert Information tool for exact figures
+Aside from the above method of seeing the data, we can use Wireshark to see the visual representation of the packet traffic.  For our presentation we use filters and the Expert Information tool for exact figures
 
 ___________________________________________________________________________________________
 
