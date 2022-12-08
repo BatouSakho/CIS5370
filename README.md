@@ -31,7 +31,7 @@ Steps to run the program
 
 	•	Open terminal to the folder that the C program is located in
 	⁃	Compile by running
-				⁃ gcc  program.c  -o compiledname  (Whatever you choose)
+				⁃ gcc  dosattack.c  -o compiledname  (Whatever you choose)
 	⁃	Once compiled, we run the executable by
 	                        ⁃ ./compiledname
 
