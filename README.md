@@ -27,7 +27,7 @@ This project needs the user to be running on a Linux machine, preferably the See
 						sudo apt update
 						sudo apt install wireshark 
 
-GCC is already preinstalled in Ubuntu, so no worries there.
+GCC is already preinstalled in Ubuntu and Seed, so no worries there.
 
 Steps to run the program 
 
