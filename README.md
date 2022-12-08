@@ -32,7 +32,7 @@ GCC is already preinstalled in Ubuntu, so no worries there.
 Steps to run the program 
 
 
-	•	Open terminal to the folder that the C program is located in
+	-	Open terminal to the folder that the C program is located in
 	⁃	Compile by running
 				⁃ gcc  dosattack.c  -o compiledname  (Whatever you choose)
 	⁃	Once compiled, we run the executable by
@@ -40,12 +40,17 @@ Steps to run the program
 
 The user is given a Main Menu where they are to select a number from 0 to 5. The last option, 5, exits the program.
 	
-	-Option 0 allows the user to during execution, run the command to see available IP addresses of the current machine, and gather the IP to target.
-	-Option 1 allows the user to input whatever IP of their liking as the target of a continuous ping.
-	-Option 2 allows the user to input whatever IP of their liking as the target where the machine floods IP with pings.
-	-Option 3 allows the user input whatever IP and size of packet( 0-65535) to target that can lead to easier fragmentation.
-	-Option 4 pings the IP address 172.10.0.1 as the target. (This is our target IP for the simulation in the presentation)
-	-Option 5 has the program exit.
+-Option 0 allows the user to during execution, run the command to see available IP addresses of the current machine, and gather the IP to target.
+<br>
+-Option 1 allows the user to input whatever IP of their liking as the target of a continuous ping.
+<br>
+-Option 2 allows the user to input whatever IP of their liking as the target where the machine floods IP with pings.
+<br>
+-Option 3 allows the user input whatever IP and size of packet( 0-65535) to target that can lead to easier fragmentation.
+<br>
+-Option 4 pings the IP address 172.10.0.1 as the target. (This is our target IP for the simulation in the presentation)
+<br>
+-Option 5 has the program exit.
 
 ** Note that if the program is running from user options 1-4, the program can only exit by force quitting (^c)**
 
