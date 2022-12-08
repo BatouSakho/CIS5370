@@ -10,7 +10,9 @@ The main objective of this project is to overflow an IP address to the point tha
 Technologies
 <br>
 	•		Linux Operating System 
-	•	           GCC compiler
+	<br>
+	•	           GCC Compiler
+	<br>
 	•	           Wireshark 
 
 ______________________________________________________________________________________
@@ -45,7 +47,7 @@ The user is given a Main Menu where they are to select a number from 0 to 5. The
 	-Option 4 pings the IP address 172.10.0.1 as the target. (This is our target IP for the simulation in the presentation)
 	-Option 5 has the program exit.
 
-** Note that if the program is running from user options 1-4, they can only exit by force quitting (^c)**
+** Note that if the program is running from user options 1-4, the program can only exit by force quitting (^c)**
 
 If the user chooses to exit with  ^c,  they will see the data of the transmissions (packet loss percentage, etc.)
 
