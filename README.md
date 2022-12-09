@@ -46,7 +46,7 @@ The user is given a Main Menu where they are to select a number from 0 to 5. The
 <br>
 -Option 2 allows the user to input whatever IP of their liking as the target where the machine floods IP with pings.
 <br>
--Option 3 allows the user input whatever IP and size of packet( 0-65535) to target that can lead to easier fragmentation.
+-Option 3 allows the user input whatever IP to target that can lead to easier fragmentation. In the code, we have it set to 7000 bits 
 <br>
 -Option 4 pings the IP address 172.10.0.1 as the target. (This is our target IP for the simulation in the presentation)
 <br>
