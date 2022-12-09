@@ -56,7 +56,7 @@ The user is given a Main Menu where they are to select a number from 0 to 5. The
 
 If the user chooses to exit with  ^c,  they will see the data of the transmissions (packet loss percentage, etc.)
 
-Aside from the above method of seeing the data, we can use Wireshark to see the visual representation of the packet traffic.  For our presentation we use filters and the Expert Information tool for exact figures
+Aside from the above method of seeing the data, we can use Wireshark to see the visual representation of the packet traffic.  For our presentation we use filters and the Expert Information tool for exact figures.
 
 ___________________________________________________________________________________________
 
